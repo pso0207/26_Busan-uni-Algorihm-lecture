@@ -1,0 +1,11 @@
+# 1. Mac OS 숨김 파일
+.DS_Store
+
+# 2. VS Code 설정 폴더
+.vscode/
+
+# 3. C++ 컴파일 결과물 및 디버깅 파일
+*.o
+*.out
+*.exe
+*.dSYM/
