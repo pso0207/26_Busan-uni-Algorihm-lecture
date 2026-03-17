@@ -1,3 +1,5 @@
+[📄 1번 문제 fishbun (PDF 보기)](./ALCODE_01_-_fishbun_1e.pdf)
+
 1. 플립(Flip) 대상과 BP(Breaking Point)의 정의
 
 플립 대상: 인덱스 번호와 데이터 값이 일치하지 않는 구간은 뒤집기(Flip) 대상이 됩니다.
